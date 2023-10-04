@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fecd4300-30bc-485d-9c95-9d57de555acc" name="Changes" comment="init merge">
-      <change afterPath="$PROJECT_DIR$/.idea/apiforrinkiwinki.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/www" afterDir="false" />
+    <list default="true" id="fecd4300-30bc-485d-9c95-9d57de555acc" name="Changes" comment="forgot to add&#10;also put port on 8081">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/colorCalculator.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/colorCalculator.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +41,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -75,7 +71,9 @@
       <option name="presentableId" value="Default" />
       <updated>1695369074975</updated>
       <workItem from="1695369076223" duration="631000" />
-      <workItem from="1695881131007" duration="5212000" />
+      <workItem from="1695881131007" duration="5861000" />
+      <workItem from="1695967620024" duration="706000" />
+      <workItem from="1695972018765" duration="4592000" />
     </task>
     <task id="LOCAL-00001" summary="init merge">
       <created>1695907608522</created>
@@ -84,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695907608523</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="forgot to add&#10;also put port on 8081">
+      <created>1695966906710</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695966906710</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +108,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init merge" />
-    <option name="LAST_COMMIT_MESSAGE" value="init merge" />
+    <MESSAGE value="forgot to add&#10;also put port on 8081" />
+    <option name="LAST_COMMIT_MESSAGE" value="forgot to add&#10;also put port on 8081" />
   </component>
 </project>
